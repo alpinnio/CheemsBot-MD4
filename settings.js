@@ -69,7 +69,7 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "💀" //ur menu react emoji
 global.themeemoji = "🏴‍☠️" //ur theme emoji
-global.packname = "LuxxyBot " //ur sticker watermark packname
+global.packname = "LuccyBot " //ur sticker watermark packname
 global.author = "🏴‍☠️Luxxy9C" //ur sticker watermark author
 
 //Bot theme media
