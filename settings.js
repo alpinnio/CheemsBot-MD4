@@ -63,7 +63,7 @@ global.location = "Indonesia, DKI Jakarta, Jakarta Timur" //ur location
 //bot bomdy 
 global.owner = ['6288210072756']
 global.ownertag = '6288210072756' //ur tag number
-global.botname = 'LuxxyBot' //ur bot name
+global.botname = 'LuccyBot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
